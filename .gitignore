@@ -1,0 +1,5 @@
+/vendor/
+/.idea/
+/frontend/web/data/
+/frontend/config/main.php
+/frontend/web/index.php
