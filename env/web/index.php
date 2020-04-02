@@ -1,7 +1,7 @@
 <?php
 defined('DEBUG_MODE') or define('DEBUG_MODE', false);
 
-require __DIR__ . '/../../vendor/autoload.php';
+// require __DIR__ . '/../../vendor/autoload.php';
 require __DIR__ . '/../../system/autoload.php';
 
 $config = require __DIR__ . '/../config/main.php';
